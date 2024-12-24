@@ -1,0 +1,6 @@
+Annual Interest Rate:56.0
+Loan Amount:45.0
+Number of Years:34
+Date:06-04-2023
+Total Payment:45.13725490196079
+Monthly Payment:0.11063052672049212

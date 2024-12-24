@@ -1,0 +1,36 @@
+
+Annual Interest Rate:12.0
+Loan Amount:12.0
+Number of Years:12
+Date:06-04-2023
+Total Payment:12.083333333333334
+Monthly Payment:0.08391203703703703
+
+Annual Interest Rate:12.0
+Loan Amount:12.0
+Number of Years:12
+Date:06-04-2023
+Total Payment:12.083333333333334
+Monthly Payment:0.08391203703703703
+
+Annual Interest Rate:12.0
+Loan Amount:12.0
+Number of Years:12
+Date:06-04-2023
+Total Payment:12.083333333333334
+Monthly Payment:0.08391203703703703
+
+Annual Interest Rate:12.0
+Loan Amount:12.0
+Number of Years:12
+Date:06-04-2023
+Total Payment:12.083333333333334
+Monthly Payment:0.08391203703703703
+
+Annual Interest Rate:12.0
+Loan Amount:12.0
+Number of Years:12
+Date:06-04-2023
+Total Payment:12.083333333333334
+Monthly Payment:0.08391203703703703
+
